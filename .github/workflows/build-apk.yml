@@ -10,7 +10,7 @@ env:
   APP_NAME: "Raqmi Pro"
   PACKAGE_NAME: "com.raqmipro.app"
   # Replace with the actual AdMob App ID for Raqmi Pro if different
-  ADMOB_APP_ID: "ca-app-pub-1118823918279022~8410967279" 
+  ADMOB_APP_ID: "ca-app-pub-1118823918279022~7512676353" 
 
 jobs:
   build:
